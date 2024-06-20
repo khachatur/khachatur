@@ -9,7 +9,7 @@ I'm a passionate software developer with experience in web and software developm
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-- Frameworks: ![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+- Frameworks: ![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=Vue.js)
 - Tools: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) 
 
 ## 📫 Contact Me

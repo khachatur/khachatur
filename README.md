@@ -16,7 +16,6 @@ Here are some of the technologies and tools I work with:
 
 - Email: khachbar@gmail.com
 - LinkedIn: https://www.linkedin.com/in/khachatur-yengibaryan
-- Stack Overflow: https://stackoverflow.com/users/7647948/khach
 
 Thanks for visiting my profile! Please feel free to explore my repositories and get in touch with me if you'd like to collaborate on a project.
 

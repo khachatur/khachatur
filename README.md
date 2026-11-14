@@ -1,6 +1,6 @@
 # Khachatur Yengibaryan
 
-**Software Developer | C# / .NET | SQL Server | WPF**
+**Software Developer | C# / .NET | SQL Server | ASP.NET Core | WPF**
 
 I build and maintain business applications on the Microsoft stack, with a focus on
 backend services, data access, and desktop clients. I have 18 years of experience

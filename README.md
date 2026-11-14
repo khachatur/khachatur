@@ -3,7 +3,7 @@
 **Software Developer | C# / .NET | SQL Server | WPF**
 
 I build and maintain business applications on the Microsoft stack, with a focus on
-backend services, data access, and desktop clients. I have [X] years of experience
+backend services, data access, and desktop clients. I have 18 years of experience
 designing service layers, writing efficient SQL, and building maintainable WPF
 applications using MVVM.
 

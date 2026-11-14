@@ -1,21 +1,44 @@
-# Hi there 👋, I'm Khachatur!
+# Khachatur Yengibaryan
 
-## 🚀 About Me
+**Software Developer | C# / .NET | SQL Server | WPF**
 
-I'm a passionate software developer with experience in web and software development. I enjoy creating efficient, scalable, and user-friendly applications. My interests include exploring new technologies, contributing to open source, and continuous learning to improve my skills.
+I build and maintain business applications on the Microsoft stack, with a focus on
+backend services, data access, and desktop clients. I have [X] years of experience
+designing service layers, writing efficient SQL, and building maintainable WPF
+applications using MVVM.
 
-## 🛠️ Languages and Tools
+## Core Skills
 
-Here are some of the technologies and tools I work with:
+- **Backend:** C#, .NET Framework, .NET, WCF, REST APIs
+- **Databases:** SQL Server, T-SQL, query optimization, stored procedures
+- **Desktop:** WPF, MVVM, Prism Library
+- **Frontend:** JavaScript, Angular, React, Vue.js
+- **Tools & Practices:** Git, clean code, unit testing, code reviews
+- **AI-Assisted Development:** Claude Code, GitHub Copilot, ChatGPT for code generation, refactoring, and code review
+- **AI Integration:** Anthropic Claude API, LLM-based classification and summarization,
+  prompt design, model evaluation, AI usage logging and cost tracking
 
-- Programming Languages: ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-- Frameworks: ![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=Vue.js)
-- Tools: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) 
+## What I Work On
 
-## 📫 Contact Me
+- Integrating LLMs into .NET backends with measurable accuracy and full logging
+- Service-oriented backend systems (WCF / Web API)
+- Data-heavy applications with SQL Server
+- Modular WPF applications with Prism
+
+## Featured Projects
+
+- ## Featured Projects
+
+- **[Helpdesk.NET](https://github.com/khachatur/helpdesk.net)** – AI-powered ticket management
+  for shared support mailboxes. Ingests email via Microsoft Graph, classifies and routes tickets
+  to teams with an LLM (confidence threshold and fallback), and generates summaries for long
+  conversations. Includes an evaluation tool to measure classification accuracy.
+  *Stack: .NET 10, ASP.NET Core Web API, Dapper, DbUp, Hangfire, SQL Server 2022,
+  React + TypeScript, Claude API, Docker, xUnit.*
+
+## Contact
 
 - Email: khachbar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/khachatur-yengibaryan
+- LinkedIn: [linkedin.com/in/khachatur-yengibaryan](https://www.linkedin.com/in/khachatur-yengibaryan)
 
-Thanks for visiting my profile! Please feel free to explore my repositories and get in touch with me if you'd like to collaborate on a project.
-
+Open to collaboration and new opportunities. Feel free to reach out.
